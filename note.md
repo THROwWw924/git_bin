@@ -9,5 +9,9 @@ use commit id to communicate with ai
 ----
 ### branch
     merge(when you are in a group)
+    git doesn's allow you to delete a branch in work, so before del, change the branch
+    branch is built based on the branch you point, you can use this way to go back to a branch  and in this way you can change the code without worrying losing codes 
+
+break:https://www.bilibili.com/video/BV1ySLc6QEcB/? this video i watch at 17 min, next day my goal is to watch this video entirely
 
 
