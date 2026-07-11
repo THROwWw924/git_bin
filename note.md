@@ -7,6 +7,7 @@ use commit id to communicate with ai
     revert：
 
 ----
-b'ran
+### branch
+    merge(when you are in a group)
 
 
