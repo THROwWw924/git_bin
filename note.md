@@ -88,3 +88,14 @@ gitGraph
 - Source: <https://www.bilibili.com/video/BV1ySLc6QEcB/>
 - Progress: watched up to **17 minutes**.
 - **Goal for next session:** watch the entire video.
+
+### questions about upload to git hub
+  if there exist difference between location and github
+
+
+### work flow
+  git pull: get the newest upload about code
+  git add .
+  git commit -m “”
+  git push
+
