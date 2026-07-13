@@ -99,3 +99,10 @@ gitGraph
   git commit -m “”
   git push
 
+### head
+  which commit you are in
+
+### git work tree
+  you can use it(branch) and main files at the same time. for example you can use branch to text with changing the main files. 
+  git
+
