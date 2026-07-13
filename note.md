@@ -104,5 +104,8 @@ gitGraph
 
 ### git work tree
   you can use it(branch) and main files at the same time. for example you can use branch to text with changing the main files. 
-  git
+  you can use the order: git worktree add (file address) (branch name) to build a worktree
+  you better don't build the worktree file in the root file.
+  if you don't want to switch the branch more often you better use the worktree
 
+maybe i should use the app in english to practice my english?
