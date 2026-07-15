@@ -109,3 +109,10 @@ gitGraph
   if you don't want to switch the branch more often you better use the worktree
 
 maybe i should use the app in english to practice my english?
+
+
+### git diff/status
+  git diff
+    use this order to check the difference between the files
+  git status
+    use this order to chech which file was changed
